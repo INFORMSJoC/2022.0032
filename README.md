@@ -1,6 +1,6 @@
 [![INFORMS Journal on Computing Logo](https://INFORMSJoC.github.io/logos/INFORMS_Journal_on_Computing_Header.jpg)](https://pubsonline.informs.org/journal/ijoc)
 
-# Data and R scripts for the Case Study of Unmanned Aerial Vehicle Information Collection Missions with Uncertain Characteristics
+# Data and R scripts for the Case Study of the Paper "Unmanned Aerial Vehicle Information Collection Missions with Uncertain Characteristics"
 
 This archive is distributed in association with the [INFORMS Journal on Computing](https://pubsonline.informs.org/journal/ijoc) under the [MIT License](LICENSE).
 
