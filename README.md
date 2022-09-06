@@ -16,7 +16,7 @@ To cite this material, please cite the [paper](https://doi.org/) using its DOI.
 Below is the BibTex for citing this version of the code.
 
 ```
-@article{CacheTest,
+@article{Moskal2022UAV,
   author =        {Michael D. Moskal, Erdi Dasdemir, Rajan Batta},
   publisher =     {INFORMS Journal on Computing},
   title =         {R Scripts for Unmanned Aerial Vehicle Information Collection Missions with Uncertain Characteristic}
