@@ -19,7 +19,7 @@ Below is the BibTex for citing this version of the code.
   publisher =     {INFORMS Journal on Computing},
   title =         {R Scripts for Unmanned Aerial Vehicle Information Collection Missions with Uncertain Characteristic}
   year =          {2022},
-  doi =           {},
+  doi =           {10.5281/zenodo.7055494},
   url =           {https://github.com/INFORMSJoC/},
 }  
 ```
