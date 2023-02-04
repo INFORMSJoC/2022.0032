@@ -2,7 +2,7 @@
 
 # Data and R scripts for the Case Study of the Paper ["Unmanned Aerial Vehicle Information Collection Missions with Uncertain Characteristics"](https://doi.org/10.1287/ijoc.2022.1245)
 
-This archive is distributed in association with the [INFORMS Journal on Computing](https://pubsonline.informs.org/journal/ijoc) under the [MIT License](LICENSE).
+This archive is distributed in association with the [INFORMS Journal on Computing](https://pubsonline.informs.org/doi/10.1287/ijoc.2022.1245) under the [MIT License](LICENSE).
 
 The R scripts and data in this repository are a snapshot of the scripts and data that were used in the case study reported on in the paper
 [Unmanned Aerial Vehicle Information Collection Missions with Uncertain Characteristics](https://doi.org/) by M.D. Moskal, E. Dasdemir and R. Batta.
