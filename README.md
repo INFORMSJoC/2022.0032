@@ -9,9 +9,7 @@ The R scripts and data in this repository are a snapshot of the scripts and data
 
 
 ## Cite
-To cite this material, please cite the [paper](https://doi.org/) using its DOI.
-
-[![DOI](https://zenodo.org/badge/529982067.svg)](https://zenodo.org/badge/latestdoi/529982067)
+To cite this material, please cite the [paper](https://doi.org/2022.1245) and the code using its DOI: [https://doi.org/10.1287/ijoc.2022.1245.cd](https://doi.org/10.1287/ijoc.2022.1245.cd)
 
 Below is the BibTex for citing this version of the code.
 
@@ -21,8 +19,8 @@ Below is the BibTex for citing this version of the code.
   publisher =     {INFORMS Journal on Computing},
   title =         {R Scripts for Unmanned Aerial Vehicle Information Collection Missions with Uncertain Characteristic}
   year =          {2022},
-  doi =           {10.5281/zenodo.7055494},
-  url =           {https://github.com/INFORMSJoC/},
+  doi =           {10.1287/ijoc.2022.1245.cd},
+  url =           {https://github.com/INFORMSJoC/2022.0032},
 }  
 ```
 
